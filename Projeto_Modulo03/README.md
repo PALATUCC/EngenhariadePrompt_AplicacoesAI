@@ -1,0 +1,93 @@
+# 🚀 Projeto Módulo 3 – Low Code/No Code/Vibecode
+
+---
+
+## 📌 Desafio Escolhido
+
+> **Descreva aqui o desafio proposto pelo grupo**  
+> (ex.: cadastro de usuários, automação de envio de e-mails, integração com API de IA)
+
+---
+
+## 🖥️ Protótipo
+
+### 📸 Apresentação Visual
+- Prints das telas ou link para a aplicação criada
+- Breve explicação de como o protótipo funciona
+
+> 📁 **Nota:** Coloque os arquivos de imagem ou PDF na pasta `/docs`
+
+---
+
+## ⚙️ Plataforma Utilizada
+
+### 🏢 Ferramenta Selecionada
+- **Nome da plataforma:** _(ex.: Bubble, Make, Pipedream)_
+
+### 💡 Justificativa da Escolha
+Por que essa ferramenta foi selecionada para o desafio?
+
+---
+
+## ✅ Vantagens Identificadas
+
+Lista com pelo menos **3 vantagens** percebidas no uso da abordagem low code/no code/vibecode:
+
+| # | Vantagem |
+|---|----------|
+| 1️⃣ | Protótipo rápido |
+| 2️⃣ | Integração simples |
+| 3️⃣ | Automação de processos |
+
+---
+
+## ⚠️ Limitações Encontradas
+
+Lista com pelo menos **3 limitações** percebidas:
+
+| # | Limitação |
+|---|-----------|
+| 1️⃣ | Customização limitada |
+| 2️⃣ | Dependência da plataforma |
+| 3️⃣ | Risco de lock-in tecnológico |
+
+---
+
+## 📚 Reflexão Crítica
+
+> Explique como o grupo lidou com as limitações e quais soluções criativas foram propostas para contorná-las.
+
+---
+
+## 👥 Colaboração
+
+> Descreva como o grupo organizou as tarefas e responsabilidades entre os integrantes.
+
+---
+
+## 📝 Registro da Aula
+
+| Campo | Informação |
+|-------|-----------|
+| 📅 **Data** | **15/05/2026** |
+| 📋 **Atividade** | Discussão crítica + mini-projeto de aplicação |
+| 📍 **Local** | Laboratório de informática / Quadro branco |
+| 👨‍🏫 **Professor(a)** | Kadidja Valéria |
+
+---
+
+## 🚀 Próximos Passos
+
+- ✨ Melhorias sugeridas para o protótipo
+- 🎯 Possíveis evoluções para o Projeto Final da Unidade 3
+
+---
+
+<div align="center">
+
+### 💼 Projeto em Desenvolvimento
+
+![Progress](https://img.shields.io/badge/Status-Em%20Andamento-blue?style=flat-square)
+![Module](https://img.shields.io/badge/Módulo-3-green?style=flat-square)
+
+</div>
