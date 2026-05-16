@@ -5,7 +5,7 @@
 ## 📌 Desafio Escolhido
 
 > **Descreva aqui o desafio proposto pelo grupo**  
-> (ex.: cadastro de usuários, automação de envio de e-mails, integração com API de IA)
+> O nosso grupo decidiu fazer um app que ficara responsavel por criar a ponte entre instituições, empresas ou pessoas que queiram entrar em contato com o DETRAN (Orgão Governamental responsavel por recolher automoveis que sofreram acidentes). Com isso queremos fazer a ligação direta com as pessoas ou empresas/intituições que desejam usar peças que ainda possam ser reutilizadas nos carros. Assim promovendo a sustentabilidade e a reciclagem de peças que muitas vezes tem como destino o ferro velho, fazendo com que o mercado de peças tenha uma diminuição os custos das peças desejadas, trazendo não só a sustentabilide, mas também a economia.
 
 ---
 
