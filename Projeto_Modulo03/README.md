@@ -22,10 +22,10 @@
 ## ⚙️ Plataforma Utilizada
 
 ### 🏢 Ferramenta Selecionada
-- **Nome da plataforma:** _(ex.: Bubble, Make, Pipedream)_
+- **Nome da plataforma:** _(Figma)_
 
 ### 💡 Justificativa da Escolha
-Por que essa ferramenta foi selecionada para o desafio?
+Por que essa ferramenta é uma ferramente mais facil e pratica para fazer os projestos de desenvolvimento da interface do aplicativo.  
 
 ---
 
