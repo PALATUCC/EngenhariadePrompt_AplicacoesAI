@@ -61,9 +61,7 @@ Lista com pelo menos **3 limitações** percebidas:
 
 ## 👥 Colaboração
 
-> Luiz Henrique Fonseca da Silva
-> Bruno Barros Palatucci
-> Francisco Rian Alves.
+> Luiz Henrique Fonseca da Silva; Bruno Barros Palatucci e Francisco Rian Alves.
 
 ---
 
