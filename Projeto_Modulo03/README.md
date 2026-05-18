@@ -22,7 +22,7 @@
 ## ⚙️ Plataforma Utilizada
 
 ### 🏢 Ferramenta Selecionada
-- **Nome da plataforma:** _(Figma)_
+- **Nome da plataforma:** _(Figma e Lovable)_
 
 ### 💡 Justificativa da Escolha
 Por que essa ferramenta é uma ferramente mais facil e pratica para fazer os projestos de desenvolvimento da interface do aplicativo.  
@@ -48,8 +48,8 @@ Lista com pelo menos **3 limitações** percebidas:
 | # | Limitação |
 |---|-----------|
 | 1️⃣ | Customização limitada |
-| 2️⃣ | Dependência da plataforma |
-| 3️⃣ | Risco de lock-in tecnológico |
+| 2️⃣ | Creditos de uso gratis limitados |
+| 3️⃣ | IA alucinando e trocando a Interface do projeto |
 
 ---
 
@@ -61,7 +61,9 @@ Lista com pelo menos **3 limitações** percebidas:
 
 ## 👥 Colaboração
 
-> Descreva como o grupo organizou as tarefas e responsabilidades entre os integrantes.
+> Luiz Henrique Fonseca da Silva
+> Bruno Barros Palatucci
+> Francisco Rian Alves.
 
 ---
 
@@ -69,7 +71,7 @@ Lista com pelo menos **3 limitações** percebidas:
 
 | Campo | Informação |
 |-------|-----------|
-| 📅 **Data** | **15/05/2026** |
+| 📅 **Data** | **15/05/2026** | 
 | 📋 **Atividade** | Discussão crítica + mini-projeto de aplicação |
 | 📍 **Local** | Laboratório de informática / Quadro branco |
 | 👨‍🏫 **Professor(a)** | Kadidja Valéria |
