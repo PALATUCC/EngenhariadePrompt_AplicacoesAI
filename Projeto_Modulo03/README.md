@@ -55,7 +55,7 @@ Lista com pelo menos **3 limitações** percebidas:
 
 ## 📚 Reflexão Crítica
 
-> Explique como o grupo lidou com as limitações e quais soluções criativas foram propostas para contorná-las.
+> Durante o desenvolvimento do projeto, o grupo enfrentou dificuldades principalmente na utilização das ferramentas de IA para transformar o protótipo criado no Figma em uma aplicação funcional, já que a plataforma nem sempre conseguia reproduzir fielmente a interface e os fluxos planejados. Além disso, as limitações de créditos gratuitos dificultaram a realização de testes e ajustes frequentes, exigindo maior organização e planejamento na criação dos prompts utilizados. Para contornar esses desafios, o grupo simplificou algumas funcionalidades, reorganizou partes do protótipo e dividiu as tarefas entre os integrantes, buscando otimizar o processo de desenvolvimento. Apesar das dificuldades, a experiência contribuiu bastante para o aprendizado sobre Low Code, No Code, Vibecode e o uso prático da Inteligência Artificial no desenvolvimento de software.
 
 ---
 
