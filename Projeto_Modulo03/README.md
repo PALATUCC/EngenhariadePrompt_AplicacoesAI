@@ -12,7 +12,7 @@
 ## 🖥️ Protótipo
 
 ### 📸 Apresentação Visual
-- Prints das telas ou link para a aplicação criada
+- [Prints das telas ou link para a aplicação criada](https://www.figma.com/proto/uqz4HgTjGpcWTsycXUjdt3/Atividade-aula-Quinta?node-id=1-2&starting-point-node-id=1%3A2&t=qBrQcf7FcgpwNOoA-1)
 - Breve explicação de como o protótipo funciona
 
 > 📁 **Nota:** Coloque os arquivos de imagem ou PDF na pasta `/docs`
