@@ -22,7 +22,7 @@
 ## ⚙️ Plataforma Utilizada
 
 ### 🏢 Ferramenta Selecionada
-- **Nome da plataforma:** _(Figma e Lovable)_
+- **Nome da plataforma:** _(Figma Make)_
 
 ### 💡 Justificativa da Escolha
 Por que essa ferramenta é uma ferramente mais facil e pratica para fazer os projestos de desenvolvimento da interface do aplicativo.  
