@@ -50,7 +50,7 @@ Lista com pelo menos **3 limitações** percebidas:
 | 1️⃣ | Customização limitada |
 | 2️⃣ | Creditos de uso gratis limitados e poucos |
 | 3️⃣| IA alucinando e trocando a Interface do projeto |
-| 4 | App incompleto devido a falta de creditos na IA para personalizar mais o app |
+|  4 | App incompleto devido a falta de creditos na IA para personalizar mais o app |
 
 ---
 
